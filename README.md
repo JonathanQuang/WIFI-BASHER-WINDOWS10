@@ -18,6 +18,8 @@ DO NOT use this for any illegal activity.
 DO read the How to Use Section
 DO look at the example
 
+PLEASE HAVE PYTHON 2 INSTALLED AND A PATH VARIABLE SETUP FOR IT
+
 
 # How to use
 1. Familiarize yourself with the example folder in this repo.
