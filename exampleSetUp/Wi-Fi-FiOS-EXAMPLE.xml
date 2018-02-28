@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<WLANProfile xmlns="http://www.microsoft.com/networking/WLAN/profile/v1">
+	<name>FiOS-EXAMPLE</name>
+	<SSIDConfig>
+		<SSID>
+			<hex>46694f532d4558414d504c45</hex>
+			<name>FiOS-EXAMPLE</name>
+		</SSID>
+	</SSIDConfig>
+	<connectionType>ESS</connectionType>
+	<connectionMode>manual</connectionMode>
+	<MSM>
+		<security>
+			<authEncryption>
+				<authentication>WPA2PSK</authentication>
+				<encryption>AES</encryption>
+				<useOneX>false</useOneX>
+			</authEncryption>
+			<sharedKey>
+				<keyType>passPhrase</keyType>
+				<protected>false</protected>
+				<keyMaterial>pleaseStartWithTheLetter-a</keyMaterial>
+			</sharedKey>
+		</security>
+	</MSM>
+</WLANProfile>
