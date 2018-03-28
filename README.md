@@ -1,5 +1,5 @@
 # Wifi-Basher-Windows10
-Brute Forcer Forgotten Wifi Passwords
+Brute force forgotten wifi passwords
 
 # Purpose
 If you have forgotten maybe the last three characters of your wifi password, then this is the tool for you.
@@ -18,7 +18,7 @@ DO NOT use this for any illegal activity.
 DO read the How to Use Section
 DO look at the example
 
-PLEASE HAVE PYTHON 2 INSTALLED AND A PATH VARIABLE SETUP FOR IT
+PLEASE have python 2 installed and a path variable setup for python
 
 
 # How to use
