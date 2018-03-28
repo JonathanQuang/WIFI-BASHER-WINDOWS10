@@ -22,9 +22,13 @@ PLEASE HAVE PYTHON 2 INSTALLED AND A PATH VARIABLE SETUP FOR IT
 
 
 # How to use
+0. Connect to the Wifi network you desire as if you  knew the password to generate the network profile.
+0a)view your network profiles in command prompt with "netsh wlan show profile"
+0b)execute "netsh wlan export profile "type_profile_name_here" key=clear" and open the xml file to see if it
+is compatible with the example.
 1. Familiarize yourself with the example folder in this repo.
 2. If you see INSERT STUFF HERE or anything of that nature, please use common sense and refer to the example
-when filling it out
+when filling it out. Alternatively, consider subsituting your own xml file.
 3. Run the command prompt and cd into this repo
 4. Run output.bat
 5. If you ever need to stop the script, hit ctrl+c
